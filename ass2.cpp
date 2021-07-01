@@ -1,19 +1,3 @@
-/********************************************************************************
-Filename: ass2.c
-Version : 1.0
-Author : Matt Idone-York
-StudentNo : 040912497
-Course Name / Number : Numerical Computing CST8233
-Lab Sect : 302
-Assignment # : 1
-Assignment name : Linear regression least-squares method 
-Due Date : March 15 2020
-Submission Date : March 15 2020
-Professor : Hala Own
-Purpose : A regression model for predicting the long-term recovery after disharge from
-the hospital for severely injured patients using a linear regression least-squares
-method.
-***********************************************************************************/
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
